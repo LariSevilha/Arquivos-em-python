@@ -1,0 +1,13 @@
+id: 1
+titulo: Acidente
+descricao: Colisão entre moto e caminhão
+implicacao: Transito impedido
+status: True
+prazo: 1
+
+id: 2
+titulo: Inundação
+descricao: Lagoa do sapo
+implicacao: Transito impedido
+status: True
+prazo: 3
